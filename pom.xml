@@ -26,7 +26,7 @@
     <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
     <spring-cloud-contract.version>1.2.1.RELEASE</spring-cloud-contract.version>
     <distribution.management.release.id>bintray</distribution.management.release.id>
-    <distribution.management.release.url>https://api.bintray.com/maven/ciberkleid/maven-repo/fortune-service</distribution.management.release.url>
+    <distribution.management.release.url>https://dl.bintray.com/pivotghub/fortune-service</distribution.management.release.url>
   </properties>
 
   <dependencies>
